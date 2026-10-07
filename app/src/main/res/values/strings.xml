@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">NovaPiperTTS</string>
+    <string name="app_subtitle">System text-to-speech engine</string>
+    <string name="howto_title">How to enable</string>
+    <string name="howto_body">1. Refresh the list (↻)\n2. Press ↓ next to a voice to download it\n3. After download, check the box to enable it\n4. Open TTS settings (⚙) and choose NovaPiperTTS</string>
+    <string name="status_loading">Voices: loading…</string>
+    <string name="status_updating">Updating voice list…</string>
+    <string name="status_count">Piper voices: %1$d  ·  selected: %2$d</string>
+    <string name="status_empty_hint">No voices — tap ↻ to refresh</string>
+    <string name="status_not_found">Nothing found</string>
+    <string name="status_tts_settings_fail">Could not open TTS settings</string>
+    <string name="status_error">Error: %1$s</string>
+    <string name="search_hint">Search voice or language</string>
+    <string name="cd_refresh">Refresh voices</string>
+    <string name="cd_settings">TTS settings</string>
+    <string name="logs">Logs</string>
+    <string name="clear">Clear</string>
+    <string name="logs_cleared">Logs cleared</string>
+    <string name="logs_title">Nova TTS logs</string>
+    <string name="logs_copy">Copy</string>
+    <string name="logs_copied">Logs copied to clipboard</string>
+    <string name="ok">OK</string>
+    <string name="chip_checked">Checked: %1$d</string>
+    <string name="status_none_checked">No checked voices</string>
+    <string name="download_cancelled" tools:ignore="MissingTranslation">Cancelled</string>
+    <string name="download_notification" tools:ignore="MissingTranslation">Downloading voice…</string>
+    <string name="download_cancel" tools:ignore="MissingTranslation">Cancel</string>
+    <string name="logs_write_file">Write logs to file</string>
+    <string name="logs_file_enabled">Log file writing enabled</string>
+    <string name="logs_file_disabled">Log file writing disabled</string>
+</resources>
