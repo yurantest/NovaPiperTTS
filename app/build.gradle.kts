@@ -1,6 +1,6 @@
-val sherpaVersion = providers.fileContents(rootProject.layout.projectDirectory.file("sherpa-onnx.version")).asText.get().trim()
-
 import java.util.Properties
+
+val sherpaVersion = providers.fileContents(rootProject.layout.projectDirectory.file("sherpa-onnx.version")).asText.get().trim()
 
 plugins { id("com.android.application") }
 
